@@ -1,0 +1,14 @@
+.container{
+  width: 300px;
+  height: auto;
+  background: linear-gradient(rgba(248, 247, 247, 0.129),rgba(148, 142, 142, 0.589) );
+  box-shadow: 5px 10px 8px #888888;
+  margin: 10px;
+  padding: 20px;
+}
+.appContainer{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  width: 100vw;
+}
